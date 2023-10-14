@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Bundle-Description: A free, production-ready, efficient Java library c
+ ontaining a collection of heap data-structures.
+Automatic-Module-Name: org.jheaps
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-SymbolicName: org.jheaps
+Built-By: michail
+Bnd-LastModified: 1567431643849
+Bundle-ManifestVersion: 2
+Bundle-Vendor: Dimitrios Michail
+Import-Package: org.jheaps,org.jheaps.annotations
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.6))"
+Tool: Bnd-4.1.0.201810181252
+Export-Package: org.jheaps;version="0.13.0",org.jheaps.monotone;uses:=
+ "org.jheaps,org.jheaps.annotations";version="0.13.0",org.jheaps.dag;u
+ ses:="org.jheaps,org.jheaps.annotations";version="0.13.0",org.jheaps.
+ array;uses:="org.jheaps,org.jheaps.annotations";version="0.13.0",org.
+ jheaps.annotations;version="0.13.0",org.jheaps.tree;uses:="org.jheaps
+ ,org.jheaps.annotations";version="0.13.0"
+Bundle-Name: JHeaps
+Bundle-Version: 0.13.0
+Created-By: Apache Maven Bundle Plugin
+Build-Jdk: 1.8.0_222
+
