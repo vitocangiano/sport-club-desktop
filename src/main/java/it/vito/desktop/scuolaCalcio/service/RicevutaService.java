@@ -90,7 +90,7 @@ public class RicevutaService extends BaseService {
 
 		return Session.getInstance(prop, new Authenticator() {
 			protected PasswordAuthentication getPasswordAuthentication() {
-				return new PasswordAuthentication("vpurse87@gmail.com", "thxpashmclqrmnsk");
+				return new PasswordAuthentication("********", "*********");
 			}
 		});
 
