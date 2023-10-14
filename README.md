@@ -18,6 +18,7 @@ Questa applicazione Desktop offre i seguenti servizi:
 - registrazione al corso sportivo.
 - pagamento mensile con ricevuta di pagamento pdf inviata tramite email.
 
+![alt text](https://github.com/vitocangiano/sport-club-desktop/blob/main/imageRicevute.jpg?raw=true)
 
 ## Tecnlogie utilizzate
 
