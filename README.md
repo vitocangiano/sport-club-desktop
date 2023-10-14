@@ -11,7 +11,7 @@ Invio di email (jacarta mail)
 Pdf allegato (PdfWriter)
 Parte grafica realizzata con javaFX e sceneBuilder
 
-![alt text](https://github.com/vitocangiano/sport-club-desktop/image.jpg?raw=true)
+![alt text](https://github.com/vitocangiano/sport-club-desktop/blob/main/image.jpg?raw=true)
 
 Questa applicazione Desktop offre i seguenti servizi:
 
