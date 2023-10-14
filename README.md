@@ -2,7 +2,7 @@
 
 ## Descrizione del progetto
 
-Web application per gestire iscrizione e pagamenti ai corsi sportivi.
+App desktop per gestire iscrizione e pagamenti ai corsi sportivi.
 ho utilizzato pattern dao per la gestione del dbms. e un architettura mvc.
 c'è il suggerimento del luogo di nascita(bindAutoCompletion)
 Il codice fiscale e generato in automatico
